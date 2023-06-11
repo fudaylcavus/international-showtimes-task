@@ -18,7 +18,7 @@ Once I felt comfortable with the library, I decided to crawl the hardest website
 | [Kino Ebensee](de_at-kino-ebensee.js) | --- | --- | --- | --- | --- |--- |
 | [MKC Templin](de_de-mkc-templin.js) | --- | --- | --- | --- | --- |--- |
 | [TCL Chinese](en_us-tcl-chinese-theatres.js) | --- | --- | --- | --- | --- |--- |
-| [Star Cinema](en_au-starcinema.js) | --- | --- | ✅ | --- | ✅ |✅ %800 faster than Puppetter|
+| [Star Cinema](en_au-starcinema.js) | --- | --- | ✅ | --- | ✅ |✅ %800 faster than Puppeteer|
 | [Screen Machine (JSON)](en_uk-screenmachine.js) | ✅ | --- | --- | --- | --- |--- |
 | [Spotlight Cinemas](en_us-spotlightcinemas.js) |✅ | ✅ | --- | --- | --- |--- |
 | [ShowBiz Cinemas (JSON)](en_us-showbizcinemas.js) | ✅ | ✅  | ✅ | ✅ | ✅ |--- |
