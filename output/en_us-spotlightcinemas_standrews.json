@@ -1,0 +1,791 @@
+{
+  "crawler": {
+    "id": "en_us-spotlightcinemas",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.1"
+    }
+  },
+  "cinema": {
+    "slug": "standrews",
+    "website": "http://spotlightcinemas.com/standrews",
+    "address": "527 St. Andrews Road Columbia, SC 29210"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Rally Road Racers",
+      "start_at": "2023-06-11T13:15:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:Zhi, a rookie race car driver, gets the opportunity to compete against the reigning champion of the rally car circuit. With help from a former driver-turned-mechanic, Zhi must overcome treacherous terrain, rival racers, and unexpected obstacles to prove he has what it takes to be the next great racer."
+      ]
+    },
+    {
+      "movie_title": "Rally Road Racers",
+      "start_at": "2023-06-11T16:15:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:Zhi, a rookie race car driver, gets the opportunity to compete against the reigning champion of the rally car circuit. With help from a former driver-turned-mechanic, Zhi must overcome treacherous terrain, rival racers, and unexpected obstacles to prove he has what it takes to be the next great racer."
+      ]
+    },
+    {
+      "movie_title": "Are You There God? It's Me, Margaret.",
+      "start_at": "2023-06-11T16:05:00",
+      "is_3d": false,
+      "attributes": [
+        "106 min",
+        "PG-13",
+        "Info",
+        "Cast:Abby Ryder Fortson, Rachel McAdams, Kathy Bates, Benny Safdie",
+        "Synopsis:When her family moves from the city to the suburbs, 11-year-old Margaret navigates new friends, feelings, and the beginning of adolescence."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-11T13:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-11T16:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-11T19:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Dungeons & Dragons: Honor Among Thieves",
+      "start_at": "2023-06-11T13:20:00",
+      "is_3d": false,
+      "attributes": [
+        "134 min",
+        "PG-13",
+        "Info",
+        "Cast:Chris Pine,Michelle Rodriguez,Regé-Jean Page,Justice Smith",
+        "Synopsis:A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people."
+      ]
+    },
+    {
+      "movie_title": "Dungeons & Dragons: Honor Among Thieves",
+      "start_at": "2023-06-11T19:05:00",
+      "is_3d": false,
+      "attributes": [
+        "134 min",
+        "PG-13",
+        "Info",
+        "Cast:Chris Pine,Michelle Rodriguez,Regé-Jean Page,Justice Smith",
+        "Synopsis:A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people."
+      ]
+    },
+    {
+      "movie_title": "John Wick: Chapter 4",
+      "start_at": "2023-06-11T13:25:00",
+      "is_3d": false,
+      "attributes": [
+        "169 min",
+        "R",
+        "Info",
+        "Cast:",
+        "Synopsis:With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
+      ]
+    },
+    {
+      "movie_title": "John Wick: Chapter 4",
+      "start_at": "2023-06-11T18:30:00",
+      "is_3d": false,
+      "attributes": [
+        "169 min",
+        "R",
+        "Info",
+        "Cast:",
+        "Synopsis:With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
+      ]
+    },
+    {
+      "movie_title": "Shazam! Fury of the Gods",
+      "start_at": "2023-06-11T19:20:00",
+      "is_3d": false,
+      "attributes": [
+        "130 min",
+        "Info",
+        "Cast:",
+        "Synopsis:Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world."
+      ]
+    },
+    {
+      "movie_title": "Avatar: The Way of Water",
+      "start_at": "2023-06-11T13:00:00",
+      "is_3d": false,
+      "attributes": [
+        "190 min",
+        "PG-13",
+        "Info",
+        "Cast:Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang",
+        "Synopsis:Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+      ]
+    },
+    {
+      "movie_title": "Avatar: The Way of Water",
+      "start_at": "2023-06-11T18:15:00",
+      "is_3d": false,
+      "attributes": [
+        "190 min",
+        "PG-13",
+        "Info",
+        "Cast:Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang",
+        "Synopsis:Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+      ]
+    },
+    {
+      "movie_title": "Rally Road Racers",
+      "start_at": "2023-06-12T13:15:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:Zhi, a rookie race car driver, gets the opportunity to compete against the reigning champion of the rally car circuit. With help from a former driver-turned-mechanic, Zhi must overcome treacherous terrain, rival racers, and unexpected obstacles to prove he has what it takes to be the next great racer."
+      ]
+    },
+    {
+      "movie_title": "Rally Road Racers",
+      "start_at": "2023-06-12T16:15:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:Zhi, a rookie race car driver, gets the opportunity to compete against the reigning champion of the rally car circuit. With help from a former driver-turned-mechanic, Zhi must overcome treacherous terrain, rival racers, and unexpected obstacles to prove he has what it takes to be the next great racer."
+      ]
+    },
+    {
+      "movie_title": "Are You There God? It's Me, Margaret.",
+      "start_at": "2023-06-12T16:05:00",
+      "is_3d": false,
+      "attributes": [
+        "106 min",
+        "PG-13",
+        "Info",
+        "Cast:Abby Ryder Fortson, Rachel McAdams, Kathy Bates, Benny Safdie",
+        "Synopsis:When her family moves from the city to the suburbs, 11-year-old Margaret navigates new friends, feelings, and the beginning of adolescence."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-12T13:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-12T16:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-12T19:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Dungeons & Dragons: Honor Among Thieves",
+      "start_at": "2023-06-12T13:20:00",
+      "is_3d": false,
+      "attributes": [
+        "134 min",
+        "PG-13",
+        "Info",
+        "Cast:Chris Pine,Michelle Rodriguez,Regé-Jean Page,Justice Smith",
+        "Synopsis:A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people."
+      ]
+    },
+    {
+      "movie_title": "Dungeons & Dragons: Honor Among Thieves",
+      "start_at": "2023-06-12T19:05:00",
+      "is_3d": false,
+      "attributes": [
+        "134 min",
+        "PG-13",
+        "Info",
+        "Cast:Chris Pine,Michelle Rodriguez,Regé-Jean Page,Justice Smith",
+        "Synopsis:A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people."
+      ]
+    },
+    {
+      "movie_title": "John Wick: Chapter 4",
+      "start_at": "2023-06-12T13:25:00",
+      "is_3d": false,
+      "attributes": [
+        "169 min",
+        "R",
+        "Info",
+        "Cast:",
+        "Synopsis:With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
+      ]
+    },
+    {
+      "movie_title": "John Wick: Chapter 4",
+      "start_at": "2023-06-12T18:30:00",
+      "is_3d": false,
+      "attributes": [
+        "169 min",
+        "R",
+        "Info",
+        "Cast:",
+        "Synopsis:With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
+      ]
+    },
+    {
+      "movie_title": "Shazam! Fury of the Gods",
+      "start_at": "2023-06-12T19:20:00",
+      "is_3d": false,
+      "attributes": [
+        "130 min",
+        "Info",
+        "Cast:",
+        "Synopsis:Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world."
+      ]
+    },
+    {
+      "movie_title": "Avatar: The Way of Water",
+      "start_at": "2023-06-12T13:00:00",
+      "is_3d": false,
+      "attributes": [
+        "190 min",
+        "PG-13",
+        "Info",
+        "Cast:Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang",
+        "Synopsis:Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+      ]
+    },
+    {
+      "movie_title": "Avatar: The Way of Water",
+      "start_at": "2023-06-12T18:15:00",
+      "is_3d": false,
+      "attributes": [
+        "190 min",
+        "PG-13",
+        "Info",
+        "Cast:Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang",
+        "Synopsis:Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+      ]
+    },
+    {
+      "movie_title": "Rally Road Racers",
+      "start_at": "2023-06-13T13:15:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:Zhi, a rookie race car driver, gets the opportunity to compete against the reigning champion of the rally car circuit. With help from a former driver-turned-mechanic, Zhi must overcome treacherous terrain, rival racers, and unexpected obstacles to prove he has what it takes to be the next great racer."
+      ]
+    },
+    {
+      "movie_title": "Rally Road Racers",
+      "start_at": "2023-06-13T16:15:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:Zhi, a rookie race car driver, gets the opportunity to compete against the reigning champion of the rally car circuit. With help from a former driver-turned-mechanic, Zhi must overcome treacherous terrain, rival racers, and unexpected obstacles to prove he has what it takes to be the next great racer."
+      ]
+    },
+    {
+      "movie_title": "Are You There God? It's Me, Margaret.",
+      "start_at": "2023-06-13T16:05:00",
+      "is_3d": false,
+      "attributes": [
+        "106 min",
+        "PG-13",
+        "Info",
+        "Cast:Abby Ryder Fortson, Rachel McAdams, Kathy Bates, Benny Safdie",
+        "Synopsis:When her family moves from the city to the suburbs, 11-year-old Margaret navigates new friends, feelings, and the beginning of adolescence."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-13T13:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-13T16:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-13T19:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Dungeons & Dragons: Honor Among Thieves",
+      "start_at": "2023-06-13T13:20:00",
+      "is_3d": false,
+      "attributes": [
+        "134 min",
+        "PG-13",
+        "Info",
+        "Cast:Chris Pine,Michelle Rodriguez,Regé-Jean Page,Justice Smith",
+        "Synopsis:A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people."
+      ]
+    },
+    {
+      "movie_title": "Dungeons & Dragons: Honor Among Thieves",
+      "start_at": "2023-06-13T19:05:00",
+      "is_3d": false,
+      "attributes": [
+        "134 min",
+        "PG-13",
+        "Info",
+        "Cast:Chris Pine,Michelle Rodriguez,Regé-Jean Page,Justice Smith",
+        "Synopsis:A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people."
+      ]
+    },
+    {
+      "movie_title": "John Wick: Chapter 4",
+      "start_at": "2023-06-13T13:25:00",
+      "is_3d": false,
+      "attributes": [
+        "169 min",
+        "R",
+        "Info",
+        "Cast:",
+        "Synopsis:With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
+      ]
+    },
+    {
+      "movie_title": "John Wick: Chapter 4",
+      "start_at": "2023-06-13T18:30:00",
+      "is_3d": false,
+      "attributes": [
+        "169 min",
+        "R",
+        "Info",
+        "Cast:",
+        "Synopsis:With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
+      ]
+    },
+    {
+      "movie_title": "Shazam! Fury of the Gods",
+      "start_at": "2023-06-13T19:20:00",
+      "is_3d": false,
+      "attributes": [
+        "130 min",
+        "Info",
+        "Cast:",
+        "Synopsis:Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world."
+      ]
+    },
+    {
+      "movie_title": "Avatar: The Way of Water",
+      "start_at": "2023-06-13T13:00:00",
+      "is_3d": false,
+      "attributes": [
+        "190 min",
+        "PG-13",
+        "Info",
+        "Cast:Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang",
+        "Synopsis:Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+      ]
+    },
+    {
+      "movie_title": "Avatar: The Way of Water",
+      "start_at": "2023-06-13T18:15:00",
+      "is_3d": false,
+      "attributes": [
+        "190 min",
+        "PG-13",
+        "Info",
+        "Cast:Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang",
+        "Synopsis:Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+      ]
+    },
+    {
+      "movie_title": "Rally Road Racers",
+      "start_at": "2023-06-14T13:15:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:Zhi, a rookie race car driver, gets the opportunity to compete against the reigning champion of the rally car circuit. With help from a former driver-turned-mechanic, Zhi must overcome treacherous terrain, rival racers, and unexpected obstacles to prove he has what it takes to be the next great racer."
+      ]
+    },
+    {
+      "movie_title": "Rally Road Racers",
+      "start_at": "2023-06-14T16:15:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:Zhi, a rookie race car driver, gets the opportunity to compete against the reigning champion of the rally car circuit. With help from a former driver-turned-mechanic, Zhi must overcome treacherous terrain, rival racers, and unexpected obstacles to prove he has what it takes to be the next great racer."
+      ]
+    },
+    {
+      "movie_title": "Are You There God? It's Me, Margaret.",
+      "start_at": "2023-06-14T16:05:00",
+      "is_3d": false,
+      "attributes": [
+        "106 min",
+        "PG-13",
+        "Info",
+        "Cast:Abby Ryder Fortson, Rachel McAdams, Kathy Bates, Benny Safdie",
+        "Synopsis:When her family moves from the city to the suburbs, 11-year-old Margaret navigates new friends, feelings, and the beginning of adolescence."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-14T13:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-14T16:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-14T19:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Dungeons & Dragons: Honor Among Thieves",
+      "start_at": "2023-06-14T13:20:00",
+      "is_3d": false,
+      "attributes": [
+        "134 min",
+        "PG-13",
+        "Info",
+        "Cast:Chris Pine,Michelle Rodriguez,Regé-Jean Page,Justice Smith",
+        "Synopsis:A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people."
+      ]
+    },
+    {
+      "movie_title": "Dungeons & Dragons: Honor Among Thieves",
+      "start_at": "2023-06-14T19:05:00",
+      "is_3d": false,
+      "attributes": [
+        "134 min",
+        "PG-13",
+        "Info",
+        "Cast:Chris Pine,Michelle Rodriguez,Regé-Jean Page,Justice Smith",
+        "Synopsis:A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people."
+      ]
+    },
+    {
+      "movie_title": "John Wick: Chapter 4",
+      "start_at": "2023-06-14T13:25:00",
+      "is_3d": false,
+      "attributes": [
+        "169 min",
+        "R",
+        "Info",
+        "Cast:",
+        "Synopsis:With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
+      ]
+    },
+    {
+      "movie_title": "John Wick: Chapter 4",
+      "start_at": "2023-06-14T18:30:00",
+      "is_3d": false,
+      "attributes": [
+        "169 min",
+        "R",
+        "Info",
+        "Cast:",
+        "Synopsis:With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
+      ]
+    },
+    {
+      "movie_title": "Shazam! Fury of the Gods",
+      "start_at": "2023-06-14T19:20:00",
+      "is_3d": false,
+      "attributes": [
+        "130 min",
+        "Info",
+        "Cast:",
+        "Synopsis:Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world."
+      ]
+    },
+    {
+      "movie_title": "Avatar: The Way of Water",
+      "start_at": "2023-06-14T13:00:00",
+      "is_3d": false,
+      "attributes": [
+        "190 min",
+        "PG-13",
+        "Info",
+        "Cast:Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang",
+        "Synopsis:Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+      ]
+    },
+    {
+      "movie_title": "Avatar: The Way of Water",
+      "start_at": "2023-06-14T18:15:00",
+      "is_3d": false,
+      "attributes": [
+        "190 min",
+        "PG-13",
+        "Info",
+        "Cast:Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang",
+        "Synopsis:Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+      ]
+    },
+    {
+      "movie_title": "Rally Road Racers",
+      "start_at": "2023-06-15T13:15:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:Zhi, a rookie race car driver, gets the opportunity to compete against the reigning champion of the rally car circuit. With help from a former driver-turned-mechanic, Zhi must overcome treacherous terrain, rival racers, and unexpected obstacles to prove he has what it takes to be the next great racer."
+      ]
+    },
+    {
+      "movie_title": "Rally Road Racers",
+      "start_at": "2023-06-15T16:15:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:Zhi, a rookie race car driver, gets the opportunity to compete against the reigning champion of the rally car circuit. With help from a former driver-turned-mechanic, Zhi must overcome treacherous terrain, rival racers, and unexpected obstacles to prove he has what it takes to be the next great racer."
+      ]
+    },
+    {
+      "movie_title": "Are You There God? It's Me, Margaret.",
+      "start_at": "2023-06-15T16:05:00",
+      "is_3d": false,
+      "attributes": [
+        "106 min",
+        "PG-13",
+        "Info",
+        "Cast:Abby Ryder Fortson, Rachel McAdams, Kathy Bates, Benny Safdie",
+        "Synopsis:When her family moves from the city to the suburbs, 11-year-old Margaret navigates new friends, feelings, and the beginning of adolescence."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-15T13:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-15T16:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Evil Dead Rise",
+      "start_at": "2023-06-15T19:10:00",
+      "is_3d": false,
+      "attributes": [
+        "92 min",
+        "R",
+        "Info",
+        "Cast:Lily Sullivan,Alyssa Sutherland,Morgan Davies,Nell Fisher",
+        "Synopsis:Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+      ]
+    },
+    {
+      "movie_title": "Dungeons & Dragons: Honor Among Thieves",
+      "start_at": "2023-06-15T13:20:00",
+      "is_3d": false,
+      "attributes": [
+        "134 min",
+        "PG-13",
+        "Info",
+        "Cast:Chris Pine,Michelle Rodriguez,Regé-Jean Page,Justice Smith",
+        "Synopsis:A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people."
+      ]
+    },
+    {
+      "movie_title": "Dungeons & Dragons: Honor Among Thieves",
+      "start_at": "2023-06-15T19:05:00",
+      "is_3d": false,
+      "attributes": [
+        "134 min",
+        "PG-13",
+        "Info",
+        "Cast:Chris Pine,Michelle Rodriguez,Regé-Jean Page,Justice Smith",
+        "Synopsis:A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people."
+      ]
+    },
+    {
+      "movie_title": "John Wick: Chapter 4",
+      "start_at": "2023-06-15T13:25:00",
+      "is_3d": false,
+      "attributes": [
+        "169 min",
+        "R",
+        "Info",
+        "Cast:",
+        "Synopsis:With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
+      ]
+    },
+    {
+      "movie_title": "John Wick: Chapter 4",
+      "start_at": "2023-06-15T18:30:00",
+      "is_3d": false,
+      "attributes": [
+        "169 min",
+        "R",
+        "Info",
+        "Cast:",
+        "Synopsis:With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
+      ]
+    },
+    {
+      "movie_title": "Shazam! Fury of the Gods",
+      "start_at": "2023-06-15T19:20:00",
+      "is_3d": false,
+      "attributes": [
+        "130 min",
+        "Info",
+        "Cast:",
+        "Synopsis:Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world."
+      ]
+    },
+    {
+      "movie_title": "Avatar: The Way of Water",
+      "start_at": "2023-06-15T13:00:00",
+      "is_3d": false,
+      "attributes": [
+        "190 min",
+        "PG-13",
+        "Info",
+        "Cast:Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang",
+        "Synopsis:Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+      ]
+    },
+    {
+      "movie_title": "Avatar: The Way of Water",
+      "start_at": "2023-06-15T18:15:00",
+      "is_3d": false,
+      "attributes": [
+        "190 min",
+        "PG-13",
+        "Info",
+        "Cast:Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang",
+        "Synopsis:Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+      ]
+    }
+  ]
+}

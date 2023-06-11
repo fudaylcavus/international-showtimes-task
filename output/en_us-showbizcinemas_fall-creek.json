@@ -1,0 +1,2995 @@
+{
+  "crawler": {
+    "id": "en_us-showbizcinemas",
+    "is_booking_link_capable": true,
+    "crawl-e": {
+      "version": "0.5.1"
+    }
+  },
+  "cinema": {
+    "name": "Fall Creek",
+    "id": 7891,
+    "slug": "fall-creek",
+    "website": "https://movie-showbiz.theboxofficecompany.net/movies/55/7891",
+    "address": "4811  Canyon Lakes Trace Drive Humble TX ",
+    "phone": "",
+    "lat": 29.9368267,
+    "lon": -95.2426816
+  },
+  "showtimes": [
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T12:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852036",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T12:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891702",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T13:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852037",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T15:25:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852038",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T16:25:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852039",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T18:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852040",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T19:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891717",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T19:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852041",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T21:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852042",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T22:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852043",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T12:55:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891706",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T13:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891704",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T15:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891709",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T16:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891716",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T18:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891712",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T19:05:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891722",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T21:40:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891720",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T22:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891725",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T22:25:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897158",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T13:20:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891703",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T15:50:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891710",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T18:35:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891715",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T21:00:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891719",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T14:00:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891705",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T17:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891711",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T20:25:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891718",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T21:55:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897157",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T11:10:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891700",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T14:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891707",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T18:10:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891713",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T21:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891721",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T12:15:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891701",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T15:40:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891708",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T19:00:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891714",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T22:20:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891723",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-11T14:00:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853219",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-11T19:00:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853220",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T10:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891727",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T10:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891730",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T11:35:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891733",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T12:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891734",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T13:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891738",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T15:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891744",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T16:15:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891748",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T18:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891749",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T18:40:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891754",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T19:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891758",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T21:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891765",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T22:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891766",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T22:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891768",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T12:35:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891735",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T14:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891740",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T15:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891743",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T15:40:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891745",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T18:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891753",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T19:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891756",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T21:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891759",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T21:40:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891762",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T22:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891767",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T13:10:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891737",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T16:00:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891747",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T19:15:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891757",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T21:45:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891764",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T10:00:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891726",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T10:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891729",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T12:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891736",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T13:50:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891739",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T15:50:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891746",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T18:10:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891750",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T19:00:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891755",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T21:20:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891760",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T11:00:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891731",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T14:10:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891741",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T18:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891752",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T21:30:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891761",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T11:20:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891732",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T14:45:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891742",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T18:15:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891751",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T22:00:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891763",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-12T10:20:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891728",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-12T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886671",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T10:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891769",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T10:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891772",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T11:35:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891775",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T12:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891776",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T13:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891778",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T15:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891786",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T16:15:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891790",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T18:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891791",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T18:40:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891796",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T19:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891800",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T22:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891807",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T22:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891808",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T22:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891810",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T12:35:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891777",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T14:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891782",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T15:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891785",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T15:40:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891787",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T18:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891795",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T19:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891798",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T21:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891801",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T21:40:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891804",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T22:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891809",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T13:20:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891779",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T16:00:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891789",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T19:10:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891799",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T21:40:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891806",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T10:20:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891770",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T10:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891771",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T13:50:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891781",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T15:50:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891788",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T18:10:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891792",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T19:00:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891797",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T21:20:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891802",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T11:00:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891773",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T14:10:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891783",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T18:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891794",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T21:30:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891803",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T11:20:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891774",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T14:45:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891784",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T18:15:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891793",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T21:50:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891805",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-13T13:30:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891780",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-13T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886672",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening Early Access Screening",
+      "start_at": "2023-06-14T18:00:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891832",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T10:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891812",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T10:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891814",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T11:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891817",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T12:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891819",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T13:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891822",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T15:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891828",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T16:15:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891831",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T18:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10894534",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T19:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891840",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T21:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891834",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T22:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891847",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T22:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891850",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T12:35:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891820",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T14:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891824",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T15:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891827",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T15:40:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891830",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T18:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891841",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T18:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891837",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T19:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891839",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T21:35:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891844",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T22:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891849",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T13:10:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891821",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T15:35:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891829",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T21:00:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891846",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T10:00:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891811",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T10:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891813",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T13:50:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891823",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T18:10:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891833",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T21:20:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891842",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T22:10:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891848",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T11:00:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891815",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T14:10:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891825",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T18:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891836",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T21:30:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891843",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T11:20:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891816",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T14:45:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891826",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T18:15:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891835",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T21:40:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891845",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-14T11:40:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891818",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-14T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886673",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-14T14:00:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853221",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-14T19:00:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853222",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-15T15:00:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860395",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-15T18:00:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860396",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-15T21:00:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860397",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-15T18:00:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884924",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-15T20:30:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884925",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T15:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870478",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T16:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870479",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T18:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870480",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T19:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870481",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T21:40:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870482",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T22:40:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870483",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-15T10:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891851",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-15T11:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891853",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-15T11:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891855",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-15T12:45:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891856",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-15T19:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891871",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-15T21:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891874",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-15T22:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891876",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-15T12:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891857",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-15T15:25:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891863",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-15T15:55:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891864",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-15T18:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891869",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-15T22:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891877",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-15T13:25:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891859",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-15T10:55:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891852",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-15T12:55:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891858",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-15T14:05:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891860",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-15T16:05:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891865",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-15T18:25:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891866",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-15T19:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891870",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-15T21:35:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Fall Creek Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891872",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-15T14:25:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891861",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-15T18:35:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891868",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-15T21:45:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Fall Creek Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891873",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-15T11:35:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891854",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-15T15:00:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891862",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-15T18:30:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891867",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-15T22:00:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Fall Creek Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891875",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-15T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886674",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T10:10:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860398",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T13:10:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860399",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T16:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860400",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T19:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860401",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T22:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860402",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T11:40:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884926",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T14:10:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884927",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T16:40:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884928",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T19:10:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884929",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T21:40:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884930",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T10:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870484",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T11:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870485",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T13:10:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870486",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T14:20:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870487",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T16:20:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870488",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T18:20:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870489",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T19:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870490",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T21:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870491",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T22:40:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870492",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-16T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841815",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T10:10:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860403",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T13:10:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860404",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T16:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860405",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T19:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860406",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T22:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860407",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T11:40:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884931",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T14:10:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884932",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T16:40:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884933",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T19:10:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884934",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T21:40:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884935",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T10:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870493",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T11:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870494",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T13:10:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870495",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T14:20:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870496",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T16:20:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870497",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T18:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870498",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T19:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870499",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T21:40:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870500",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T22:40:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870501",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-17T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841816",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T10:10:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860408",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T13:10:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860409",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T16:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860410",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T19:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860411",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T22:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Fall Creek Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10860412",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T11:40:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884936",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T14:10:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884937",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T16:40:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884938",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T19:10:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884939",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T21:50:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Fall Creek Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884940",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T10:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870502",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T10:55:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870503",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T13:10:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870504",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T14:20:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870505",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T16:20:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870506",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T18:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870507",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T19:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870508",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T21:40:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870509",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T22:40:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Fall Creek Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10870510",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-18T14:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853304",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-18T19:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853305",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-21T14:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853306",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-21T19:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Fall Creek Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853307",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T16:00:00",
+      "directors": [
+        "Gene Stupnitsky"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897828",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T18:30:00",
+      "directors": [
+        "Gene Stupnitsky"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897829",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T21:00:00",
+      "directors": [
+        "Gene Stupnitsky"
+      ],
+      "audotorium": "Fall Creek Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897830",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-23T11:30:00",
+      "directors": [
+        "Gene Stupnitsky"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897831",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-23T14:00:00",
+      "directors": [
+        "Gene Stupnitsky"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897832",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-23T16:30:00",
+      "directors": [
+        "Gene Stupnitsky"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897833",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-23T19:00:00",
+      "directors": [
+        "Gene Stupnitsky"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897834",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-23T21:30:00",
+      "directors": [
+        "Gene Stupnitsky"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897835",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Peter Rabbit",
+      "start_at": "2023-06-23T10:00:00",
+      "directors": [
+        "Will Gluck"
+      ],
+      "audotorium": "Fall Creek Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841817",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-24T11:30:00",
+      "directors": [
+        "Gene Stupnitsky"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897836",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-24T14:00:00",
+      "directors": [
+        "Gene Stupnitsky"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897837",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-24T16:30:00",
+      "directors": [
+        "Gene Stupnitsky"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897838",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-24T19:00:00",
+      "directors": [
+        "Gene Stupnitsky"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897839",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-24T21:30:00",
+      "directors": [
+        "Gene Stupnitsky"
+      ],
+      "audotorium": "Fall Creek Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10897840",
+      "is_3d": false
+    }
+  ]
+}

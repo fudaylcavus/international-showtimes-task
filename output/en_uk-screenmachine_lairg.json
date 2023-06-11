@@ -1,0 +1,42 @@
+{
+  "crawler": {
+    "id": "en_uk-screenmachine",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.1"
+    }
+  },
+  "cinema": {
+    "name": "Lairg",
+    "slug": "lairg",
+    "address": "Car Park, Lairg Community Centre, LAIRG, IV27 4DB",
+    "website": "https://www.screenmachine.co.uk/locations/lairg/"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-07-07T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Local Hero",
+      "start_at": "2023-07-07T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-07-08T14:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Unlikely Pilgrimage of Harold Fry",
+      "start_at": "2023-07-08T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "National Theatre Live: Fleabag",
+      "start_at": "2023-07-08T20:30:00",
+      "is_3d": false
+    }
+  ]
+}

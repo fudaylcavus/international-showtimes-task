@@ -1,0 +1,2808 @@
+{
+  "crawler": {
+    "id": "en_us-showbizcinemas",
+    "is_booking_link_capable": true,
+    "crawl-e": {
+      "version": "0.5.1"
+    }
+  },
+  "cinema": {
+    "name": "Baytown",
+    "id": 7880,
+    "slug": "baytown",
+    "website": "https://movie-showbiz.theboxofficecompany.net/movies/55/7880",
+    "address": "10550 Interstate 10 Baytown TX 77523",
+    "phone": "",
+    "lat": 29.8192904,
+    "lon": -94.8956215
+  },
+  "showtimes": [
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T13:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852190",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T13:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852191",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T14:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886861",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T16:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852192",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T16:40:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852193",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T19:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852194",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T19:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852195",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T21:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886876",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T21:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852196",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T22:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852197",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T22:45:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886883",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T11:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886854",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T12:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886857",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T15:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886864",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T16:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886867",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T18:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886872",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T19:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886874",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T22:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886879",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T22:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886882",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T11:30:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886855",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T13:40:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886860",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T17:00:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886868",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T19:45:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886875",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T21:55:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886878",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T13:00:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886858",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T16:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886866",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T19:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886873",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T22:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886881",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T11:40:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886856",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T15:00:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886862",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T18:30:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886870",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T21:45:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886877",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T11:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886853",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T15:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886863",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T18:40:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886871",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T22:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886880",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-11T13:30:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886859",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-11T16:00:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886865",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-11T18:20:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886869",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-11T14:00:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853385",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-11T19:00:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853386",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T10:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886886",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T13:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886896",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T13:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886898",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T14:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886900",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T16:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886905",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T16:40:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886908",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T19:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886915",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T19:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886918",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T21:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886921",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T21:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886923",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T22:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886927",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T22:45:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886929",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T10:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886884",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T10:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886888",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T11:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886890",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T12:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886893",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T13:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886894",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T15:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886903",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T16:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886907",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T18:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886910",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T18:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886914",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T19:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886917",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T22:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886924",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T22:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886928",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T11:50:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886892",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T14:30:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886899",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T17:00:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886909",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T19:45:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886919",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T21:20:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886920",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T10:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886885",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T13:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886895",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T16:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886906",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T19:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886916",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T22:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886926",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T11:40:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886891",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T15:00:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886901",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T18:30:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886912",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T21:40:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886922",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T11:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886889",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T15:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886902",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T18:40:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886913",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T22:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886925",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-12T10:40:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886887",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-12T13:30:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886897",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-12T16:00:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886904",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-12T18:20:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886911",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-12T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841978",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T10:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886932",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T13:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886942",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T13:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886944",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T14:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886946",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T16:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886951",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T16:40:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886954",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T19:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886961",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T19:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886964",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T21:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886966",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T21:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886969",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T22:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886973",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T22:45:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886975",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T10:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886930",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T10:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886934",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T11:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886936",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T12:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886939",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T13:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886940",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T15:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886949",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T16:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886953",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T18:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886956",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T18:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886960",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T19:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886963",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T22:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886970",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T22:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886974",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T11:50:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886938",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T14:30:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886945",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T17:00:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886955",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T19:45:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886965",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T21:20:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886967",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T10:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886931",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T13:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886941",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T16:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886952",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T19:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886962",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T22:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886972",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T11:40:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886937",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T15:00:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886947",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T18:30:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886958",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T21:40:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886968",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T11:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886935",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T15:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886948",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T18:40:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886959",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T22:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886971",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-13T10:40:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886933",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-13T13:30:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886943",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-13T16:00:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886950",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-13T18:20:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886957",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-13T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841979",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening Early Access Screening",
+      "start_at": "2023-06-14T19:40:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884982",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T10:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886978",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T13:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886987",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T13:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886990",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T14:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886991",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T16:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886996",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T16:40:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886999",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T19:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887004",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T19:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887006",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T21:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887008",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T21:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887010",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T22:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887015",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T22:45:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887017",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T10:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886977",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T10:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886980",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T11:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886982",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T12:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886985",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T15:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886994",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T16:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886998",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T18:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887003",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T22:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887012",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T22:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887016",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T11:30:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886983",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T13:40:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886989",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T17:00:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887000",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T19:50:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887007",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T21:55:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887011",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T10:00:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886976",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T13:00:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886986",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T16:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886997",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T19:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887005",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T22:15:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887014",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T11:40:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886984",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T15:00:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886992",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T18:30:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887002",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T21:45:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Baytown Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887009",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T11:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886981",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T15:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886993",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T18:00:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887001",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T22:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Baytown Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10887013",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-14T10:40:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886979",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-14T13:30:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886988",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-14T16:00:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886995",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-14T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841980",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-14T14:00:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853387",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-14T19:00:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853388",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-15T15:15:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863536",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-15T18:15:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863537",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-15T21:00:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863538",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-15T19:20:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884983",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-15T21:50:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884984",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T15:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869139",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T15:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869140",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T18:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869141",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T19:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869142",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T21:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869143",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T22:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869144",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-15T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841981",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T10:15:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863539",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T12:50:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863540",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T15:30:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863541",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T18:15:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863542",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T21:00:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863543",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T11:50:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884985",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T14:20:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884986",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T16:50:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884987",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T19:30:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884988",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T22:10:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884989",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T10:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869185",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T12:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869186",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T13:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869187",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T15:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869188",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T16:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869189",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T19:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869190",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T19:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869191",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T22:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869192",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T23:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869193",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-16T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10842032",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T10:15:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863544",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T12:50:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863545",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T15:30:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863546",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T18:15:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863547",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T21:00:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863548",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T11:50:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884990",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T14:20:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884991",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T16:50:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884992",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T19:30:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884993",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T22:10:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884994",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T10:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869194",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T12:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869195",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T13:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869196",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T15:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869197",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T16:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869198",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T19:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869199",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T19:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869200",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T22:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869201",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T23:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869202",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-17T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10842033",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T10:15:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863549",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T12:50:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863550",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T15:30:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863551",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T18:15:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863552",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T21:00:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Baytown Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10863553",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T11:55:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884995",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T14:25:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884996",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T16:55:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884997",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T19:35:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884998",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T22:10:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Baytown Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884999",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T10:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869203",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T12:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869204",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T13:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869205",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T15:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869206",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T16:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869207",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T19:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869208",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T19:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869209",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T22:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869210",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T23:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Baytown Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10869211",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-18T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10842034",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-18T14:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853389",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-18T19:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853390",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-19T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10842035",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-20T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10842036",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-21T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10842037",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-21T14:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Baytown Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853391",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-21T19:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Baytown Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853392",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-22T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10842038",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Peter Rabbit",
+      "start_at": "2023-06-23T10:00:00",
+      "directors": [
+        "Will Gluck"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10842039",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Peter Rabbit",
+      "start_at": "2023-06-24T10:00:00",
+      "directors": [
+        "Will Gluck"
+      ],
+      "audotorium": "Baytown Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10842040",
+      "is_3d": false
+    }
+  ]
+}

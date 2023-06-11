@@ -1,0 +1,3070 @@
+{
+  "crawler": {
+    "id": "en_us-showbizcinemas",
+    "is_booking_link_capable": true,
+    "crawl-e": {
+      "version": "0.5.1"
+    }
+  },
+  "cinema": {
+    "name": "Liberty Lakes",
+    "id": 7890,
+    "slug": "liberty-lakes",
+    "website": "https://movie-showbiz.theboxofficecompany.net/movies/55/7890",
+    "address": "7102 East Sam Houston Parkway North Houston TX ",
+    "phone": "12312231212",
+    "lat": 29.8308799,
+    "lon": -95.1704618
+  },
+  "showtimes": [
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T13:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10876198",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T13:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10876199",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T16:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891466",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T16:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10876201",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T19:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10876202",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T19:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10876203",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T20:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891069",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T22:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891467",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T22:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10876205",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T23:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891077",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T12:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891046",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T13:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891049",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T13:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891053",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T15:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891055",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T16:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891057",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T16:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891061",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T18:55:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891064",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T19:25:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891065",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T22:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891073",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T22:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891076",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T13:35:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891052",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T16:10:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891056",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T19:45:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891067",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T23:10:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891078",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T13:25:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891051",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T16:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891060",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T19:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891066",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T21:45:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891070",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T22:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891075",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T13:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891050",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T16:35:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891059",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T18:35:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891063",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T22:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891074",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T13:05:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891047",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T16:25:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891058",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T19:50:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891068",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T22:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891072",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-11T13:10:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891048",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-11T15:40:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891054",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-11T18:30:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891062",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-11T21:50:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891071",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-11T14:00:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853316",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-11T19:00:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853317",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T10:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891468",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T10:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891473",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T13:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891479",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T13:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891485",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T16:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891491",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T16:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891495",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T19:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891503",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T19:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891505",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T20:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891509",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T22:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891512",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T22:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891516",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T23:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891519",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T10:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891470",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T10:40:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891475",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T12:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891478",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T13:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891482",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T13:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891487",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T15:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891490",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T16:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891493",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T16:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891498",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T18:55:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891502",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T19:25:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891504",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T22:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891514",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T22:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891518",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T10:35:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891474",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T13:35:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891486",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T16:10:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891492",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T19:45:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891507",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T23:10:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891520",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T10:20:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891472",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T10:50:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891477",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T13:25:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891484",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T13:55:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891488",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T16:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891497",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T18:45:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891501",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T19:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891506",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T21:45:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891510",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T22:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891517",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T10:05:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891469",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T13:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891483",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T16:35:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891496",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T18:35:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891500",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T22:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891515",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T10:15:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891471",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T13:05:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891480",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T16:25:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891494",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T19:50:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891508",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T22:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891513",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-12T10:45:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891476",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-12T13:10:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891481",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-12T15:40:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891489",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-12T18:30:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891499",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-12T21:50:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891511",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-12T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841901",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T10:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891521",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T10:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891526",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T13:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891531",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T13:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891536",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T16:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891542",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T16:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891547",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T19:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891554",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T19:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891557",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T20:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891561",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T21:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891562",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T22:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891564",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T22:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891568",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T23:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891571",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T10:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891523",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T10:40:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891528",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T12:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891530",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T13:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891533",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T13:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891539",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T15:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891541",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T16:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891545",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T16:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891550",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T18:55:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891553",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T19:25:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891556",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T22:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891566",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T22:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891570",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T10:35:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891527",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T13:35:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891537",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T16:10:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891544",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T19:45:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891559",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T23:10:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891572",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T10:20:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891525",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T10:50:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891529",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T13:25:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891535",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T13:55:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891540",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T16:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891549",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T18:45:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891552",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T19:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891558",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T21:45:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891563",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T22:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891569",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T10:05:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891522",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T13:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891534",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T16:35:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891548",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T18:35:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891551",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T22:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891567",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T10:15:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891524",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T13:05:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891532",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T16:25:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891546",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T19:50:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891560",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T22:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891565",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-13T13:40:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891538",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-13T16:05:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891543",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-13T19:10:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891555",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-13T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841902",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T10:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891573",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T10:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891578",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T13:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891583",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T13:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891588",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T16:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891594",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T16:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891599",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T19:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891606",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T19:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891609",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T20:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891613",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T21:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891614",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T22:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891616",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T22:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891620",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T23:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891623",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T10:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891575",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T10:40:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891580",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T12:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891582",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T13:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891585",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T13:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891591",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T15:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891593",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T16:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891597",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T16:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891602",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T18:55:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891604",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T19:25:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891608",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T22:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891618",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T22:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891622",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T10:35:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891579",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T14:10:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891589",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T16:10:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891596",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T19:45:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891611",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T23:10:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891624",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T10:20:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891577",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T10:50:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891581",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T13:25:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891587",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T16:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891601",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T19:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891610",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T21:45:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891615",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T22:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891621",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T12:55:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891586",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T16:35:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891600",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T18:35:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891603",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T22:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891619",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T10:15:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891576",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T13:05:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891584",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T16:25:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891598",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T19:50:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891612",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T22:10:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891617",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-14T13:40:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891590",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-14T16:05:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891595",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-14T19:10:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891607",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-14T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841903",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-14T14:00:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891592",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-14T19:00:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10891605",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-15T15:05:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865480",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-15T17:45:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865481",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-15T20:30:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865482",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-15T18:00:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884948",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-15T20:25:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884949",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-15T22:50:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884950",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T15:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867976",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T15:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867977",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T18:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867978",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T18:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867979",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T21:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867980",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T22:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867981",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-15T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841904",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T10:10:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865483",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T13:00:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865484",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T15:45:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865485",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T18:30:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865486",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T20:30:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865487",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T11:30:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884951",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T14:20:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884952",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T16:50:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884953",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T19:20:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884954",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T22:10:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884955",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T10:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867982",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T10:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867983",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T13:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867984",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T13:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867985",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T16:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867986",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T17:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867987",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T19:10:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867988",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T19:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867989",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T22:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867990",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T23:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867991",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-16T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841905",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T10:10:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865488",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T13:00:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865489",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T15:45:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865490",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T18:30:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865491",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T20:30:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10866106",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T11:30:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884956",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T14:20:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884957",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T16:50:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884958",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T19:20:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884959",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T22:10:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884960",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T10:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867992",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T10:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867993",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T13:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867994",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T13:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867995",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T16:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867996",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T17:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867997",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T19:10:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867998",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T19:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10867999",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T22:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868000",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T23:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868001",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-17T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841906",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T10:10:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865493",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T13:00:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865494",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T15:45:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865495",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T18:30:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10865496",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T20:30:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10866107",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T11:30:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884961",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T14:20:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884962",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T16:50:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884963",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T19:20:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884964",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T22:10:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Liberty Lakes Screen 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10884965",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T10:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868002",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T10:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868003",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T13:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868004",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T13:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868005",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T16:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868006",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T17:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868007",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T19:10:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868008",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T19:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868009",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T22:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868010",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T23:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Liberty Lakes Screen 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868011",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-18T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841907",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-18T14:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853320",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-18T19:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853321",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-19T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841908",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-20T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841909",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-21T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841910",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-21T14:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853322",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-21T19:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Liberty Lakes Screen 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853323",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-22T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841911",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Peter Rabbit",
+      "start_at": "2023-06-23T10:00:00",
+      "directors": [
+        "Will Gluck"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841912",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Peter Rabbit",
+      "start_at": "2023-06-24T10:00:00",
+      "directors": [
+        "Will Gluck"
+      ],
+      "audotorium": "Liberty Lakes Screen 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841913",
+      "is_3d": false
+    }
+  ]
+}

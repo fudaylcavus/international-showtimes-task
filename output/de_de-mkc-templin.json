@@ -1,0 +1,197 @@
+{
+  "crawler": {
+    "id": "de_de-mkc-templin",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.1"
+    }
+  },
+  "cinema": {
+    "name": "Multikulturelles Centrum Templin",
+    "address": "Prenzlauer Allee 6, 17268 Templin, Deutschland",
+    "website": "https://www.mkc-templin.de",
+    "phone": "+49 3987 551063"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Winski und das Unsichtbarkeitspulver",
+      "start_at": "2023-06-11T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Winski und das Unsichtbarkeitspulver",
+      "start_at": "2023-06-12T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fast & Furious 10",
+      "start_at": "2023-06-11T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fast & Furious 10",
+      "start_at": "2023-06-11T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fast & Furious 10",
+      "start_at": "2023-06-12T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fast & Furious 10",
+      "start_at": "2023-06-12T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mavka - Hüterin des Waldes",
+      "start_at": "2023-06-15T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mavka - Hüterin des Waldes",
+      "start_at": "2023-06-16T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mavka - Hüterin des Waldes",
+      "start_at": "2023-06-17T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mavka - Hüterin des Waldes",
+      "start_at": "2023-06-18T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mavka - Hüterin des Waldes",
+      "start_at": "2023-06-19T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mavka - Hüterin des Waldes",
+      "start_at": "2023-06-22T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mavka - Hüterin des Waldes",
+      "start_at": "2023-06-23T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mavka - Hüterin des Waldes",
+      "start_at": "2023-06-24T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mavka - Hüterin des Waldes",
+      "start_at": "2023-06-25T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mavka - Hüterin des Waldes",
+      "start_at": "2023-06-26T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Book Club - Ein neues Kapitel",
+      "start_at": "2023-06-15T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Book Club - Ein neues Kapitel",
+      "start_at": "2023-06-16T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Book Club - Ein neues Kapitel",
+      "start_at": "2023-06-17T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Book Club - Ein neues Kapitel",
+      "start_at": "2023-06-18T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Book Club - Ein neues Kapitel",
+      "start_at": "2023-06-19T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Das Lehrerzimmer",
+      "start_at": "2023-06-15T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Das Lehrerzimmer",
+      "start_at": "2023-06-17T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Das Lehrerzimmer",
+      "start_at": "2023-06-18T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Das Lehrerzimmer",
+      "start_at": "2023-06-19T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Das Lehrerzimmer",
+      "start_at": "2023-06-22T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Das Lehrerzimmer",
+      "start_at": "2023-06-23T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Das Lehrerzimmer",
+      "start_at": "2023-06-24T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Das Lehrerzimmer",
+      "start_at": "2023-06-25T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Das Lehrerzimmer",
+      "start_at": "2023-06-26T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Empire of Light",
+      "start_at": "2023-06-16T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Empire of Light",
+      "start_at": "2023-06-25T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Und dann kam Dad",
+      "start_at": "2023-06-22T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Und dann kam Dad",
+      "start_at": "2023-06-23T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Und dann kam Dad",
+      "start_at": "2023-06-24T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Und dann kam Dad",
+      "start_at": "2023-06-26T19:30:00",
+      "is_3d": false
+    }
+  ]
+}

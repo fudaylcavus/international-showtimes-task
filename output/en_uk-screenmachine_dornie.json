@@ -1,0 +1,37 @@
+{
+  "crawler": {
+    "id": "en_uk-screenmachine",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.1"
+    }
+  },
+  "cinema": {
+    "name": "Dornie",
+    "slug": "dornie",
+    "address": "Car Park, Dornie & District Community Ha, Dornie, IV40 8DY",
+    "website": "https://www.screenmachine.co.uk/locations/dornie/"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Dungeons & Dragons: Honour Among Thieves",
+      "start_at": "2023-06-13T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Local Hero",
+      "start_at": "2023-06-13T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-14T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Rye Lane",
+      "start_at": "2023-06-14T20:30:00",
+      "is_3d": false
+    }
+  ]
+}

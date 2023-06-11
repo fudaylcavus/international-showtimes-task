@@ -1,0 +1,42 @@
+{
+  "crawler": {
+    "id": "en_uk-screenmachine",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.1"
+    }
+  },
+  "cinema": {
+    "name": "Durness",
+    "slug": "durness",
+    "address": "Village Hall, Durness, Sutherland, IV27 4QG",
+    "website": "https://www.screenmachine.co.uk/locations/durness/"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-07-03T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Local Hero",
+      "start_at": "2023-07-03T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-07-04T14:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Unlikely Pilgrimage of Harold Fry",
+      "start_at": "2023-07-04T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "National Theatre Live: Fleabag",
+      "start_at": "2023-07-04T20:30:00",
+      "is_3d": false
+    }
+  ]
+}

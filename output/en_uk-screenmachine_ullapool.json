@@ -1,0 +1,52 @@
+{
+  "crawler": {
+    "id": "en_uk-screenmachine",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.1"
+    }
+  },
+  "cinema": {
+    "name": "Ullapool",
+    "slug": "ullapool",
+    "address": "Car Park, Lochbroom Leisure Centre, Ullapool, IV26 2UE",
+    "website": "https://www.screenmachine.co.uk/locations/ullapool/"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-22T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-24T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Local Hero",
+      "start_at": "2023-06-22T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-23T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-24T14:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Unlikely Pilgrimage of Harold Fry",
+      "start_at": "2023-06-23T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "National Theatre Live: Fleabag",
+      "start_at": "2023-06-24T20:30:00",
+      "is_3d": false
+    }
+  ]
+}

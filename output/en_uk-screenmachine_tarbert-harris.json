@@ -1,0 +1,52 @@
+{
+  "crawler": {
+    "id": "en_uk-screenmachine",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.1"
+    }
+  },
+  "cinema": {
+    "name": "Tarbert, Harris",
+    "slug": "tarbert-harris",
+    "address": "Harris Hotel car park, TARBERT, HARRIS HS3 3DL",
+    "website": "https://www.screenmachine.co.uk/locations/east-tarbert/"
+  },
+  "showtimes": [
+    {
+      "movie_title": "The Unlikely Pilgrimage of Harold Fry",
+      "start_at": "2023-07-13T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-07-13T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-07-15T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-07-14T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-07-15T14:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Local Hero",
+      "start_at": "2023-07-14T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Asteroid City",
+      "start_at": "2023-07-15T20:30:00",
+      "is_3d": false
+    }
+  ]
+}

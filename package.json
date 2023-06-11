@@ -1,0 +1,17 @@
+{
+  "name": "internationshowtimes_task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Fudayl Cavus",
+    "email": "fudaylc@gmail.com"
+  },
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "crawl-e/v0.5.1": "git+ssh://git@bitbucket.org/cinepass/crawl-e.git#v0.5.1",
+    "esprima": "^4.0.1",
+    "moment": "^2.29.4",
+    "puppeteer": "^20.5.0"
+  }
+}

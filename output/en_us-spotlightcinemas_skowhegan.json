@@ -1,0 +1,556 @@
+{
+  "crawler": {
+    "id": "en_us-spotlightcinemas",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.1"
+    }
+  },
+  "cinema": {
+    "slug": "skowhegan",
+    "website": "http://spotlightcinemas.com/skowhegan",
+    "address": "19 Court Street Skowhegan, Me 04976"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-11T14:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-11T15:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-11T18:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T13:00:00",
+      "is_3d": false,
+      "attributes": [
+        "142 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most."
+      ]
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T16:00:00",
+      "is_3d": false,
+      "attributes": [
+        "142 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most."
+      ]
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T19:00:00",
+      "is_3d": false,
+      "attributes": [
+        "142 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most."
+      ]
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T13:15:00",
+      "is_3d": false,
+      "attributes": [
+        "120 min",
+        "PG",
+        "Info",
+        "Cast:Halle Bailey,Jonah Hauer-King,Daveed Diggs,Jacob Tremblay",
+        "Synopsis:The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
+      ]
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T16:15:00",
+      "is_3d": false,
+      "attributes": [
+        "120 min",
+        "PG",
+        "Info",
+        "Cast:Halle Bailey,Jonah Hauer-King,Daveed Diggs,Jacob Tremblay",
+        "Synopsis:The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
+      ]
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T19:15:00",
+      "is_3d": false,
+      "attributes": [
+        "120 min",
+        "PG",
+        "Info",
+        "Cast:Halle Bailey,Jonah Hauer-King,Daveed Diggs,Jacob Tremblay",
+        "Synopsis:The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
+      ]
+    },
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-12T14:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-12T15:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-12T18:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T13:00:00",
+      "is_3d": false,
+      "attributes": [
+        "142 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most."
+      ]
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T16:00:00",
+      "is_3d": false,
+      "attributes": [
+        "142 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most."
+      ]
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T19:00:00",
+      "is_3d": false,
+      "attributes": [
+        "142 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most."
+      ]
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T13:15:00",
+      "is_3d": false,
+      "attributes": [
+        "120 min",
+        "PG",
+        "Info",
+        "Cast:Halle Bailey,Jonah Hauer-King,Daveed Diggs,Jacob Tremblay",
+        "Synopsis:The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
+      ]
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T16:15:00",
+      "is_3d": false,
+      "attributes": [
+        "120 min",
+        "PG",
+        "Info",
+        "Cast:Halle Bailey,Jonah Hauer-King,Daveed Diggs,Jacob Tremblay",
+        "Synopsis:The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
+      ]
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T19:15:00",
+      "is_3d": false,
+      "attributes": [
+        "120 min",
+        "PG",
+        "Info",
+        "Cast:Halle Bailey,Jonah Hauer-King,Daveed Diggs,Jacob Tremblay",
+        "Synopsis:The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
+      ]
+    },
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-13T14:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-13T15:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-13T18:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T13:00:00",
+      "is_3d": false,
+      "attributes": [
+        "142 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most."
+      ]
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T16:00:00",
+      "is_3d": false,
+      "attributes": [
+        "142 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most."
+      ]
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T19:00:00",
+      "is_3d": false,
+      "attributes": [
+        "142 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most."
+      ]
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T13:15:00",
+      "is_3d": false,
+      "attributes": [
+        "120 min",
+        "PG",
+        "Info",
+        "Cast:Halle Bailey,Jonah Hauer-King,Daveed Diggs,Jacob Tremblay",
+        "Synopsis:The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
+      ]
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T16:15:00",
+      "is_3d": false,
+      "attributes": [
+        "120 min",
+        "PG",
+        "Info",
+        "Cast:Halle Bailey,Jonah Hauer-King,Daveed Diggs,Jacob Tremblay",
+        "Synopsis:The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
+      ]
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T19:15:00",
+      "is_3d": false,
+      "attributes": [
+        "120 min",
+        "PG",
+        "Info",
+        "Cast:Halle Bailey,Jonah Hauer-King,Daveed Diggs,Jacob Tremblay",
+        "Synopsis:The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
+      ]
+    },
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-14T14:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-14T15:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-14T18:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T13:00:00",
+      "is_3d": false,
+      "attributes": [
+        "142 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most."
+      ]
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T16:00:00",
+      "is_3d": false,
+      "attributes": [
+        "142 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most."
+      ]
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T19:00:00",
+      "is_3d": false,
+      "attributes": [
+        "142 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most."
+      ]
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T13:15:00",
+      "is_3d": false,
+      "attributes": [
+        "120 min",
+        "PG",
+        "Info",
+        "Cast:Halle Bailey,Jonah Hauer-King,Daveed Diggs,Jacob Tremblay",
+        "Synopsis:The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
+      ]
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T16:15:00",
+      "is_3d": false,
+      "attributes": [
+        "120 min",
+        "PG",
+        "Info",
+        "Cast:Halle Bailey,Jonah Hauer-King,Daveed Diggs,Jacob Tremblay",
+        "Synopsis:The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
+      ]
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T19:15:00",
+      "is_3d": false,
+      "attributes": [
+        "120 min",
+        "PG",
+        "Info",
+        "Cast:Halle Bailey,Jonah Hauer-King,Daveed Diggs,Jacob Tremblay",
+        "Synopsis:The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
+      ]
+    },
+    {
+      "movie_title": "Flash",
+      "start_at": "2023-06-15T16:00:00",
+      "is_3d": false,
+      "attributes": [
+        "150 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A police squad on a mission… A football match… Tension rises on both sides… The shooting starts and the team must face the pressure. When rivalry and betrayal slide onto the field, the team spirit and trust fly to bits."
+      ]
+    },
+    {
+      "movie_title": "Flash",
+      "start_at": "2023-06-15T19:00:00",
+      "is_3d": false,
+      "attributes": [
+        "150 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A police squad on a mission… A football match… Tension rises on both sides… The shooting starts and the team must face the pressure. When rivalry and betrayal slide onto the field, the team spirit and trust fly to bits."
+      ]
+    },
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-15T14:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-15T15:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Transformers: Rise of the Beasts",
+      "start_at": "2023-06-15T18:45:00",
+      "is_3d": false,
+      "attributes": [
+        "117 min",
+        "PG-13",
+        "Info",
+        "Cast:",
+        "Synopsis:A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
+      ]
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-15T16:15:00",
+      "is_3d": false,
+      "attributes": [
+        "93 min",
+        "PG",
+        "Info",
+        "Cast:Leah Lewis,Mamoudou Athie,Ronnie del Carmen,Shila Ommi",
+        "Synopsis:In a city where fire, water, land, & air residents live together, a fiery young woman & a go-with-the-flow guy will discover something elemental: How much they have in common."
+      ]
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-15T19:15:00",
+      "is_3d": false,
+      "attributes": [
+        "93 min",
+        "PG",
+        "Info",
+        "Cast:Leah Lewis,Mamoudou Athie,Ronnie del Carmen,Shila Ommi",
+        "Synopsis:In a city where fire, water, land, & air residents live together, a fiery young woman & a go-with-the-flow guy will discover something elemental: How much they have in common."
+      ]
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-15T13:00:00",
+      "is_3d": false,
+      "attributes": [
+        "142 min",
+        "PG",
+        "Info",
+        "Cast:",
+        "Synopsis:After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most."
+      ]
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-15T13:15:00",
+      "is_3d": false,
+      "attributes": [
+        "120 min",
+        "PG",
+        "Info",
+        "Cast:Halle Bailey,Jonah Hauer-King,Daveed Diggs,Jacob Tremblay",
+        "Synopsis:The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
+      ]
+    }
+  ]
+}

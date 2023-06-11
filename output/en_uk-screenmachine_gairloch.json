@@ -1,0 +1,52 @@
+{
+  "crawler": {
+    "id": "en_uk-screenmachine",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.1"
+    }
+  },
+  "cinema": {
+    "name": "Gairloch",
+    "slug": "gairloch",
+    "address": "Car Park, Gairloch High School, Gairloch, IV21 2BP",
+    "website": "https://www.screenmachine.co.uk/locations/gairloch/"
+  },
+  "showtimes": [
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-15T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "God’s Creatures",
+      "start_at": "2023-06-15T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Unlikely Pilgrimage of Harold Fry",
+      "start_at": "2023-06-16T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Local Hero",
+      "start_at": "2023-06-16T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-17T14:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-17T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "National Theatre Live: Fleabag",
+      "start_at": "2023-06-17T20:30:00",
+      "is_3d": false
+    }
+  ]
+}

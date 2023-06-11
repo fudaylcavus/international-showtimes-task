@@ -1,0 +1,3354 @@
+{
+  "crawler": {
+    "id": "en_us-showbizcinemas",
+    "is_booking_link_capable": true,
+    "crawl-e": {
+      "version": "0.5.1"
+    }
+  },
+  "cinema": {
+    "name": "Waxahachie",
+    "id": 7889,
+    "slug": "waxahachie",
+    "website": "https://movie-showbiz.theboxofficecompany.net/movies/55/7889",
+    "address": "108 Broadhead Road Waxahachie TX 54920",
+    "phone": "1231354566",
+    "lat": 32.4002897,
+    "lon": -96.8164979
+  },
+  "showtimes": [
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T11:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893396",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T11:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852001",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T11:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10895562",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T13:25:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852002",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T14:25:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852003",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T15:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10895563",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T16:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852004",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T17:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852005",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T18:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10895564",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T19:15:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852006",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T20:15:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852007",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T21:40:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893432",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-11T22:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10852008",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T12:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893402",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T13:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893404",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T14:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893407",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T15:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893411",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T16:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893415",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T17:25:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893418",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T18:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893421",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T19:40:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893426",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T20:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893428",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T21:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893430",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-11T22:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893436",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T11:40:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893399",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T14:35:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893408",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T17:00:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893417",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T19:25:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893425",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-11T22:05:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893435",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T12:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893403",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T13:45:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893406",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T15:50:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893413",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T16:50:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893416",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T19:00:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893424",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T19:55:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893427",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T21:10:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893429",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-11T21:50:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893433",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T11:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893398",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T14:50:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893409",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T18:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893420",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-11T22:00:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893434",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T12:00:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893401",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T15:25:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893412",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T18:50:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893423",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-11T21:30:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893431",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-11T11:10:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893397",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-11T13:35:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893405",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-11T16:00:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893414",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-11T18:40:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893422",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-11T14:00:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853168",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-11T19:10:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853169",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T10:05:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893437",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T10:40:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893440",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T11:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893442",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T12:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893448",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T13:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893450",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T13:40:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893453",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T14:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893456",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T16:05:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893463",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T16:45:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893467",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T17:25:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893470",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T18:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893474",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T19:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893477",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T19:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893480",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T20:25:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893483",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T21:15:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893485",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-12T22:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893491",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T10:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893438",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T10:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893441",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T12:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893447",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T13:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893451",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T14:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893455",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T15:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893461",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T15:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893462",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T16:25:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893465",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T17:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893469",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T18:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893472",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T19:40:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893479",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T20:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893482",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T21:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893484",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-12T21:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893487",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T11:50:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893446",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T14:25:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893457",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T16:55:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893468",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T19:20:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893478",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-12T21:55:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893490",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T10:30:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893439",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T12:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893449",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T13:30:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893452",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T15:05:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893460",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T16:35:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893466",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T18:50:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893476",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T20:00:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893481",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-12T21:20:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893486",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T11:40:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893445",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T14:55:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893459",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T18:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893473",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-12T21:50:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893489",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T11:20:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893443",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T14:40:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893458",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T18:00:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893471",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-12T21:40:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893488",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-12T11:30:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893444",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-12T13:50:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893454",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-12T16:15:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893464",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-12T18:40:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893475",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-12T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841838",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T10:05:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893492",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T10:40:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893495",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T11:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893497",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T12:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893503",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T13:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893505",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T13:40:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893508",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T14:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893511",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T16:05:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893518",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T16:45:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893522",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T17:25:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893525",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T18:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893529",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T19:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893532",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T19:50:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893535",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T20:25:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893538",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T21:15:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893540",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-13T22:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893546",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T10:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893493",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T10:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893496",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T12:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893502",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T13:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893506",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T14:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893510",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T15:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893516",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T15:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893517",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T16:25:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893520",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T17:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893524",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T18:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893527",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T19:40:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893534",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T20:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893537",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T21:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893539",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-13T21:30:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893542",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T11:50:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893501",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T14:25:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893512",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T16:55:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893523",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T19:20:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893533",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-13T21:55:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893545",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T10:30:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893494",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T12:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893504",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T13:30:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893507",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T15:05:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893515",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T16:35:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893521",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T18:50:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893531",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T20:00:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893536",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-13T21:20:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893541",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T11:40:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893500",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T14:55:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893514",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T18:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893528",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-13T21:50:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893544",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T11:20:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893498",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T14:40:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893513",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T18:00:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893526",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-13T21:40:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893543",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-13T11:30:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893499",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-13T13:50:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893509",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-13T16:15:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893519",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-13T18:40:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893530",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-13T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841839",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening Early Access Screening",
+      "start_at": "2023-06-14T18:40:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886262",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening Early Access Screening",
+      "start_at": "2023-06-14T22:05:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893598",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T10:05:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893547",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T10:40:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893550",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T11:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893552",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T12:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893558",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T13:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893560",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T14:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893565",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T15:20:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893570",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T16:05:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893572",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T17:25:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893578",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T18:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893580",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T19:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893584",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T20:25:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893589",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T21:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893593",
+      "is_3d": true
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-14T22:00:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893597",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T10:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893548",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T10:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893551",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T12:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893557",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T13:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893561",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T14:00:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893564",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T15:45:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893571",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T16:25:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893574",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T17:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893577",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T18:20:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893582",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T19:40:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893586",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T20:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893588",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T21:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893590",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-14T21:40:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893594",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T11:50:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893556",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T14:25:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893566",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T16:55:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893576",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T19:20:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893585",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-14T21:55:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893596",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T10:30:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893549",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T12:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893559",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T13:30:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893562",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T15:05:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893569",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T16:35:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893575",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T18:50:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893583",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T20:00:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893587",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-14T21:20:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893591",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T11:40:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893555",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T14:55:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893568",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T18:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893581",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-14T21:50:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893595",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T11:20:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893553",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T14:40:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893567",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T18:00:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893579",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-14T21:25:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893592",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-14T11:30:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893554",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-14T13:50:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893563",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-14T16:15:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893573",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-14T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841840",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-14T14:00:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853170",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Twilight (2008)",
+      "start_at": "2023-06-14T19:10:00",
+      "directors": [
+        "Catherine Hardwicke"
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853171",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-15T15:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861343",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-15T18:00:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861344",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-15T20:40:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861345",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-15T18:10:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886263",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-15T20:40:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886264",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T15:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868123",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T15:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868124",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T18:20:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868125",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T18:50:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868126",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T21:40:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868127",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T22:10:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868128",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-15T10:05:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893599",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-15T10:40:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893602",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-15T11:10:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893604",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers Rise of the Beasts",
+      "start_at": "2023-06-15T12:30:00",
+      "directors": [
+        "Steven Caple",
+        "Jr."
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893610",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-15T10:15:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893600",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-15T10:50:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 9",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893603",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-15T12:10:00",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers",
+        "Ju"
+      ],
+      "audotorium": "Waxahachie Aud 2",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893608",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-15T11:50:00",
+      "directors": [
+        "Rob Savage"
+      ],
+      "audotorium": "Waxahachie Aud 7",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893607",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-15T10:30:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 10",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893601",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-06-15T12:40:00",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893611",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FAST X",
+      "start_at": "2023-06-15T12:20:00",
+      "directors": [
+        "Louis Leterrier"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893609",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy Vol. 3",
+      "start_at": "2023-06-15T11:20:00",
+      "directors": [
+        "James Gunn"
+      ],
+      "audotorium": "Waxahachie Aud 4",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893605",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Super Mario Bros. Movie",
+      "start_at": "2023-06-15T11:30:00",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ],
+      "audotorium": "Waxahachie Aud 6",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10893606",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Lego Batman Movie, The",
+      "start_at": "2023-06-15T10:00:00",
+      "directors": [
+        "TBC"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841841",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T10:40:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861346",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T13:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861347",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T16:00:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861348",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T18:40:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861349",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-16T21:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861350",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T11:50:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886265",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T14:20:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886266",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T17:00:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886267",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T19:30:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886268",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-16T22:00:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886269",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T10:20:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868129",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T12:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868130",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T13:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868131",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T15:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868132",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T16:40:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868133",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T18:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868134",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T19:50:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868135",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T21:50:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868136",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-16T23:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868137",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-16T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841842",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T10:40:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861351",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T13:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861352",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T16:00:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861353",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T18:40:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861354",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-17T21:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 12",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861355",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T11:50:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886270",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T14:20:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886271",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T17:00:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886272",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T19:30:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886273",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-17T22:00:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886274",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T10:20:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868138",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T12:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868139",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T13:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868140",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T15:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868141",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T16:40:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868142",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T18:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868143",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T19:50:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868144",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T21:50:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868145",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-17T23:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868146",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-17T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841843",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T10:40:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861356",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T13:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861357",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T16:00:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861358",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T18:40:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861359",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-18T21:20:00",
+      "directors": [
+        "Peter Sohn"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10861360",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T11:50:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886275",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T14:20:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886276",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T17:00:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886277",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T19:30:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886278",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Blackening",
+      "start_at": "2023-06-18T22:00:00",
+      "directors": [
+        "Tim Story"
+      ],
+      "audotorium": "Waxahachie Aud 8",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10886279",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T12:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868147",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T12:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868148",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T15:15:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868149",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T15:45:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868150",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T18:30:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868151",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T19:00:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868152",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T21:40:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie Aud 3",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868153",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-18T22:10:00",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "audotorium": "Waxahachie SDX 13",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10868154",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-18T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841844",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-18T14:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853172",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-18T19:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853173",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-19T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841845",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-20T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841846",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-21T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841847",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-21T14:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853174",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Back to the Future",
+      "start_at": "2023-06-21T19:00:00",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "audotorium": "Waxahachie Aud 5",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10853175",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Minions: The Rise of Gru",
+      "start_at": "2023-06-22T10:00:00",
+      "directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan"
+      ],
+      "audotorium": "Waxahachie Aud 11",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841848",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Peter Rabbit",
+      "start_at": "2023-06-23T10:00:00",
+      "directors": [
+        "Will Gluck"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841849",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Peter Rabbit",
+      "start_at": "2023-06-24T10:00:00",
+      "directors": [
+        "Will Gluck"
+      ],
+      "audotorium": "Waxahachie Aud 1",
+      "booking_link": "https://www.showbizcinemas.com/booking/?sessionId=10841850",
+      "is_3d": false
+    }
+  ]
+}

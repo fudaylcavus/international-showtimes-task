@@ -1,0 +1,42 @@
+{
+  "crawler": {
+    "id": "en_uk-screenmachine",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.1"
+    }
+  },
+  "cinema": {
+    "name": "Golspie",
+    "slug": "golspie",
+    "address": "Bus Park, Golspie High School, GOLSPIE, KW10 6RF",
+    "website": "http://www.screenmachine.co.uk/?post_type=scm_location&p=25808"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-07-10T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Local Hero",
+      "start_at": "2023-07-10T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Little Mermaid",
+      "start_at": "2023-07-11T14:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Unlikely Pilgrimage of Harold Fry",
+      "start_at": "2023-07-11T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "National Theatre Live: Fleabag",
+      "start_at": "2023-07-11T20:30:00",
+      "is_3d": false
+    }
+  ]
+}
