@@ -20,8 +20,8 @@ Once I felt comfortable with the library, I decided to crawl the hardest website
 | [TCL Chinese](en_us-tcl-chinese-theatres.js) | --- | --- | --- | --- | --- |--- |
 | [Star Cinema](en_au-starcinema.js) | --- | --- | ✅ | --- | ✅ |✅ %800 faster than Puppetter|
 | [Screen Machine (JSON)](en_uk-screenmachine.js) | ✅ | --- | --- | --- | --- |--- |
-| [Spotlight Cinemas](en_us_spotlightcinemas.js) |✅ | ✅ | --- | --- | --- |--- |
-| [ShowBiz Cinemas (JSON)](de_at-kino-ebensee.js) | ✅ | ✅  | ✅ | ✅ | ✅ |--- |
+| [Spotlight Cinemas](en_us-spotlightcinemas.js) |✅ | ✅ | --- | --- | --- |--- |
+| [ShowBiz Cinemas (JSON)](en_us-showbizcinemas.js) | ✅ | ✅  | ✅ | ✅ | ✅ |--- |
 
 > Outputs can be found [here](./output/)
 
