@@ -25,3 +25,11 @@ Once I felt comfortable with the library, I decided to crawl the hardest website
 
 > Outputs can be found [here](./output/)
 
+### Other Crawling Projects:
+
+[Finance Bot](https://github.com/fudaylcavus/finance-bot), Crawling finance suggestion website in certain intervals to track stock changes, using discordapi <br />
+[MCBU News](https://github.com/fudaylcavus/mcbu-news), Crawling website in certain intervals to track university news, using discordapi <br />
+[Trendyol Scraper](https://youtu.be/yV2CmCvnCDs), Crawling Turkiye's biggest e-commerce website. Every product's color, image, variations etc can be scraped. Supports infinite scroll. <br />
+<br />
+
+_And many small ones, that I use to automate my tasks._
